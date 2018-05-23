@@ -24,7 +24,7 @@ github_username:  rickh94
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
