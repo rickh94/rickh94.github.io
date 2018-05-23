@@ -1,0 +1,16 @@
+---
+layout: page
+---
+<head>
+  <style>
+.categorynames {
+word-spacing: 20px;
+}
+</style>
+</head>
+
+<div class="categorynames">
+{% for category in site.categories %}
+<a href="/category/{{ category[0] }}.html">{{ category[0] }}</a>
+{% endfor %}
+</div>
