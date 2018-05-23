@@ -245,7 +245,7 @@ DEPENDENCIES
   github-pages (>= 104)
   jekyll
   jekyll-feed (~> 0.6)
-  jekyll-theme-hacker
+  minima
   tzinfo-data
 
 BUNDLED WITH
