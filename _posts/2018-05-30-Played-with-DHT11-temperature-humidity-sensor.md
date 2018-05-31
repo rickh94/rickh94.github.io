@@ -13,5 +13,5 @@ always check ground first, it would be great not to mess that up again.
 Once it was working I did discover that there is significant latency (several
 reads) before the sensor reacts, so code based on it should run slowly.
 
-I also found an [arduino sketch](https://gist.github.com/balloob/1175b6d87c2816bd07919ce6e29a19e9) specifically for an esp8266 mqtt temp/humidity
+I also found an [arduino sketch](https://gist.github.com/balloob/1176b6d87c2816bd07919ce6e29a19e9#file-mqtt_esp8266_temperature_humidity-ino) specifically for an esp8266 mqtt temp/humidity
 sensor so that's convenient.
